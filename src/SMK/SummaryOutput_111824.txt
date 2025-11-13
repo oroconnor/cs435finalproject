@@ -1,0 +1,9 @@
+Significant Positive Trend      12      33.33%
+Significant Negative Trend      2       5.56%
+No Significant Trend    22      61.11%
+
+
+Median Sen Slopes:
+airTempC        -0.009999999999999998
+waterTempC      0.03
+waterTempCwAirRemoved   -0.005

@@ -1,0 +1,39 @@
+apaeb   airTempC, Total S=124.00, T=0.30, Z=3.86, Sen=0.06, p value below .05
+apaeb   waterTempC, Total S=106.00, T=0.26, Z=3.30, Sen=0.04, p value below .05
+apaeb   waterTempCwAirRemoved, Total S=-14.00, T=-0.03, Z=-0.40, Sen=-0.00, p value above .05
+cbvtc   airTempC, Total S=-12.00, T=-0.17, Z=-1.08, Sen=-0.04, p value above .05
+cbvtc   waterTempC, Total S=-2.00, T=-0.03, Z=-0.10, Sen=-0.01, p value above .05
+cbvtc   waterTempCwAirRemoved, Total S=14.00, T=0.19, Z=1.47, Sen=0.01, p value above .05
+gndcr   airTempC, Total S=-1.00, T=-1.00, Z=0.00, Sen=-0.95, p value above .05
+gndcr   waterTempC, Total S=1.00, T=1.00, Z=2.00, Sen=0.33, p value below .05
+gndcr   waterTempCwAirRemoved, Total S=1.00, T=1.00, Z=2.00, Sen=1.07, p value below .05
+gtmpc   airTempC, Total S=60.00, T=0.33, Z=3.43, Sen=0.06, p value below .05
+gtmpc   waterTempC, Total S=10.00, T=0.05, Z=0.62, Sen=0.02, p value above .05
+gtmpc   waterTempCwAirRemoved, Total S=-40.00, T=-0.24, Z=-2.19, Sen=-0.04, p value below .05
+hudnp   airTempC, Total S=-2.00, T=-0.17, Z=-0.29, Sen=-0.03, p value above .05
+hudnp   waterTempC, Total S=8.00, T=0.67, Z=2.60, Sen=0.13, p value below .05
+hudnp   waterTempCwAirRemoved, Total S=6.00, T=0.50, Z=2.02, Sen=0.18, p value below .05
+lkspo   airTempC, Total S=0.00, T=0.00, Z=0.50, Sen=-0.06, p value above .05
+lkspo   waterTempC, Total S=0.00, T=0.00, Z=0.50, Sen=0.31, p value above .05
+lkspo   waterTempCwAirRemoved, Total S=4.00, T=1.00, Z=2.50, Sen=0.47, p value below .05
+marce   airTempC, Total S=32.00, T=0.56, Z=3.60, Sen=0.10, p value below .05
+marce   waterTempC, Total S=32.00, T=0.56, Z=3.60, Sen=0.08, p value below .05
+marce   waterTempCwAirRemoved, Total S=-4.00, T=-0.03, Z=-0.33, Sen=-0.01, p value above .05
+marsc   airTempC, Insufficient data
+marsc   waterTempC, Insufficient data
+marsc   waterTempCwAirRemoved, Insufficient data
+narpc   airTempC, Total S=26.00, T=0.36, Z=2.65, Sen=0.15, p value below .05
+narpc   waterTempC, Total S=20.00, T=0.28, Z=2.06, Sen=0.09, p value below .05
+narpc   waterTempCwAirRemoved, Total S=-10.00, T=-0.14, Z=-0.88, Sen=-0.05, p value above .05
+niwol   airTempC, Total S=22.00, T=0.12, Z=1.25, Sen=0.03, p value above .05
+niwol   waterTempC, Total S=18.00, T=0.10, Z=1.03, Sen=0.02, p value above .05
+niwol   waterTempCwAirRemoved, Total S=4.00, T=0.02, Z=0.27, Sen=0.00, p value above .05
+nocrc   airTempC, Total S=4.00, T=0.11, Z=0.75, Sen=0.01, p value above .05
+nocrc   waterTempC, Total S=2.00, T=0.06, Z=0.45, Sen=0.01, p value above .05
+nocrc   waterTempCwAirRemoved, Total S=-2.00, T=-0.06, Z=-0.15, Sen=-0.01, p value above .05
+sapml   airTempC, Total S=-1.00, T=-0.20, Z=0.00, Sen=-0.28, p value above .05
+sapml   waterTempC, Total S=-3.00, T=-0.60, Z=-0.89, Sen=-1.18, p value above .05
+sapml   waterTempCwAirRemoved, Total S=-1.00, T=-0.20, Z=0.00, Sen=-0.20, p value above .05
+tjrtl   airTempC, Total S=-2.00, T=-0.20, Z=-0.32, Sen=-0.20, p value above .05
+tjrtl   waterTempC, Total S=-6.00, T=-0.60, Z=-1.58, Sen=-0.29, p value above .05
+tjrtl   waterTempCwAirRemoved, Total S=-8.00, T=-0.80, Z=-2.21, Sen=-0.33, p value below .05

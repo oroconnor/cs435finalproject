@@ -1,0 +1,32 @@
+Workplan for 
+SeasonalMannKendall.java
+
+expects input as 
+format
+stationID \t dateTimeStamp \t airTempC \t waterTempC
+
+
+Mapper
+
+The mapper is basically a pass through. It will take the input data and make sure that it gets outputted in the format specified below. 
+
+input
+key: String stationID value: String "dateTimeStamp \t airTempC \t waterTempC \t waterTempCwAirRemoved"
+
+output
+key: String stationID value: String "dateTimeStamp \t airTempC \t waterTempC \t waterTempCwAirRemoved"
+
+
+Reducer
+
+The reducer is what will call SeasonalMannKendall Test on the data set for each station. 
+For each station (the key):
+-establish start and end date of the data set
+-do SMK test on the three variables of interest: airTempC,waterTempC,waterTempCwAirRemoved
+-export all this info together for each station in the output
+
+input
+key: String stationID value: List of [String "dateTimeStamp \t airTempC \t waterTempC \t waterTempCwAirRemoved"]
+
+output
+key: String stationID value: String "airTempC_SMKoutputA \t airTempC_SMKoutputB \t airTempC_SMKoutputC \t  waterTempC_SMKoutputA \t waterTempC_SMKoutputB \t waterTempC_SMKoutputC \t waterTempCwAirRemovedoutputA \t waterTempCwAirRemoved_SMKoutputB \t waterTempCwAirRemoved_SMKoutputC \t
